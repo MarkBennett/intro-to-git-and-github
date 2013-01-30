@@ -1,9 +1,7 @@
-Introduction to git and GitHub
-
-=======================
+# Introduction to git and GitHub
 
 A gentle introduction to git and GitHub
 
-LOL JAVASCRIPT!!!
+## LOL JAVASCRIPT!!!
 
-wat even is an youtube?
+wat even is an youtubes?
